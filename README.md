@@ -1,2 +1,1 @@
-# TCC8
-praktikum tcc 8
+# Praktikum TCC
